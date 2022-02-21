@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Elbek",
+        "lastname": "khakimbekov",
+        "birthdate": "1999-03-31",
+        "work_place": "AL-JABR",
+        "income": [
+            {
+                "date": "2021-09",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2021-011",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            }
+        ]
+    },
+
+    {
+        "name": "",
+        "lastname": "khakimbekov",
+        "birthdate": "1999-03-31",
+        "work_place": "AL-JABR",
+        "income": [
+            {
+                "date": "2020-09",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2020-011",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            }
+        ]
+    }
+
+]
